@@ -501,9 +501,15 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1783326318882",
+      "icon": "🌐",
+      "name": "CF优选IP",
+      "order": 2,
+      "sites": []
     }
   ],
   "title": "喵喵导航🐱",
-  "search": "baidu",
-  "_fileSha": "3fa676c61798d8c2ec1f144aadd806387c700aa1"
+  "search": "baidu"
 }
