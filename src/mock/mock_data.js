@@ -7,6 +7,13 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1783477852922",
+          "name": "云端优选智库",
+          "url": "https://cfip.118889.xyz/",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1783327336876",
           "name": "优选网络面板",
           "url": "https://bestip.fjzf.dpdns.org/",
@@ -19,6 +26,20 @@ export const mockData = {
           "url": "https://cf.6610000.xyz",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1783480338364",
+          "name": "CF优选域名",
+          "url": "https://cf.090227.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/cf.090227.xyz"
+        },
+        {
+          "id": "site-1783480437220",
+          "name": "VPS789优选IP&域名",
+          "url": "https://vps789.com/cfip/?remarks=domain",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/vps789.com"
         }
       ]
     },
